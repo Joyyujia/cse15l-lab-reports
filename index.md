@@ -16,6 +16,7 @@ Week 1 Lab: Markdown, URLs, Paths, and the Filesystem
 <br> 4. After entering the correnct password, you will see something similar to what's in below:
 ![Image](2-3.png)
 <br> This indicates that your terminal is connected to a computer in the CSE basement! Now you can try to enter some commands to test the output.
+<br>
 <br>**Trying Some Commands**
 <br> Try to enter some terminal line commands that we learned in class.
 <br> Some Examples of commands and outputs can be:
